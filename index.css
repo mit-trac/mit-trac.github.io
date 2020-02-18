@@ -1,0 +1,68 @@
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+.banner {
+    background-image: url('./banner-big.jpg');
+    background-size: cover;
+    width: 100%;
+    display: block;
+    padding:70px;
+}
+
+.banner .inner-banner {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 55px;
+    color: white;
+    display: relative;
+    width: 60%
+}
+
+.container {
+    max-width: 1600px;
+    padding: 50px;
+    padding-top: 0;
+    width: 100%;
+}
+
+
+.logos {
+    text-align: center;
+}
+
+.logos img {
+    height: 150px;
+}
+
+#committee img {
+    display: block;
+    margin: auto;
+    width: 90%;
+    max-width: 150px;
+
+}
+
+#committee p>a {
+    display:block;
+    font-size: 16px;
+    margin-bottom: 3px;
+    text-align: center;
+}
+
+#projects img {
+    width: 100%;
+}
+
+#workshops img {
+    width: 100%;
+}
