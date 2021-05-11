@@ -2,4 +2,4 @@
 
 ## How to push new code to production
 
-- Wait up to 10 minute!
+- Wait up to 10 minutes
